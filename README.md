@@ -20,3 +20,4 @@ Algumas bibliotecas boas para serem utilizadas na criação de API's em Node.js
 #### Youch - Tratativa de erros (<a href="https://www.npmjs.com/package/youch">Ver documentação</a>)
 #### Yup - Parser para tratativas de requisições (<a href="https://www.npmjs.com/package/yup">Ver documentação</a>)
 #### Nodemon - Automatizador de reinicialização (<a href="https://www.npmjs.com/package/nodemon">Ver documentação</a>)
+#### Mailtrap - Servidor SMTP para teste de emails (<a href="https://mailtrap.io">Ver documentação</a>)
