@@ -21,3 +21,5 @@ Algumas bibliotecas boas para serem utilizadas na criação de API's em Node.js
 #### Yup - Parser para tratativas de requisições (<a href="https://www.npmjs.com/package/yup">Ver documentação</a>)
 #### Nodemon - Automatizador de reinicialização (<a href="https://www.npmjs.com/package/nodemon">Ver documentação</a>)
 #### Mailtrap - Servidor SMTP para teste de emails (<a href="https://mailtrap.io">Ver documentação</a>)
+#### Sequelize-cli - Cli para executar as migrations do Sequelize (<a href="https://www.npmjs.com/package/sequelize-cli">Ver documentação</a>)
+#### Eslint - Padronização de código fonte (<a href="https://eslint.org/">Ver documentação</a>)
